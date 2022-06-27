@@ -111,7 +111,7 @@ The results should reflect the new order of things.
 ![image](https://user-images.githubusercontent.com/45638590/176010862-872e5b9e-68de-4226-94e8-0f798d3a8fb7.png)
 
 3. Click **Symbol Style** > **Current Symbol**
-4. 
+4. Select a **Category** such as 
 
 ----
 
