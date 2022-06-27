@@ -20,7 +20,7 @@ In preparation for this tutorial, you will need an ArcGIS Online Organizational 
 4. Click Brock University. You will be taken to the Brock University authentication page where you will enter your Brock credentials and click Sign in.
 5. From the tabs across the top, click **Content**.
 6. Click **+ New Item**.
-7. Select **Feature layer - create a blank layer**.
+7. Select **Feature layer - design your own layer**.
 8. Enter a layer name and select *point, line or polygon*. This example will create a point layer.
 9. Click **Next**.
 
@@ -42,7 +42,13 @@ In preparation for this tutorial, you will need an ArcGIS Online Organizational 
 
 1. To start an 'edit session', click ![image](https://user-images.githubusercontent.com/45638590/175983304-2c2f8510-16a9-4f94-a5dc-bd5fe3e85782.png) from the lower right menu.
 2. Zoom to the area of interest.
-3. Click **New feature** button then click the location on the map. NOTE: You can update the geometry any tie during an edit session.
+3. Click **New feature** button then click the location on the map. **NOTE: You can update the geometry any time during an edit session**. You will be prompted to fill in the various fields of information (label, description, etc.).
+4. Click **Create**.
+5. Repeat for additional features.
+
+##Adding Images##
+
+1. 
 
 ----
 
