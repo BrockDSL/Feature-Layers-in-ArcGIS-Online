@@ -10,6 +10,8 @@ This tutorial provides step-by-step instructions for creating a new feature laye
 ## Setup Instructions
 In preparation for this tutorial, you will need an ArcGIS Online Organizational account or your Brock University credentials. NOTE: you cannot create features with a public account using these steps.
 
+Download the Laura Secord Images zip folder and extract all files.
+
 ----
 
 ## Tutorial
@@ -51,11 +53,22 @@ In preparation for this tutorial, you will need an ArcGIS Online Organizational 
 - Shipman's Corners (known as St. Catharines downtown today. Note the search tool doesn't recognize the historical name)
 - Power Glen (Another crossing of the Twelve Mile Creek and uphill climb)
 - Decew House (Finally, Laura is escorted to Decew House by the natives to give her warning to Lt. Fitzgibbon)
-- 
+9. When you are finished adding featuress, click the 3 dots beside the layer name and click **Save**.
+
+![image](https://user-images.githubusercontent.com/45638590/175997941-31a7620a-cb6c-43ac-9c62-20eccb0272b3.png)
+
 
 ##Adding Images##
 
-1. 
+1. Click the 3 dots beside the layer name and click **Show Properties**. The item's properties panel appears on the right.
+2. Click **Information** from the properties panel.
+
+![image](https://user-images.githubusercontent.com/45638590/175998936-5941370b-3d86-422f-9fbc-c710b4981967.png)
+ 
+3. Click **Tutorial Points > Feature Layer**. This will open a new window showing the feature layer item description.
+4. Click **Data**. You will see the feature entries including the defined fields (Description, Label). Notice also the field titled **Photos and Files**.
+
+ 
 
 ----
 
