@@ -37,6 +37,13 @@ In preparation for this tutorial, you will need an ArcGIS Online Organizational 
 15. Click **Add New Field** and repeat for all the fields you wish to enter.
 16. Click the **Overview** tab.
 17. Click **Open in map viewer**.
+
+##Editing##
+
+1. To start an 'edit session', click ![image](https://user-images.githubusercontent.com/45638590/175983304-2c2f8510-16a9-4f94-a5dc-bd5fe3e85782.png) from the lower right menu.
+2. Zoom to the area of interest.
+3. Click **New feature** button then click the location on the map. NOTE: You can update the geometry any tie during an edit session.
+
 ----
 
 ## Next Steps (Optional)
