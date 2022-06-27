@@ -3,14 +3,14 @@ Add in the tutorial image here
 ![Tool Logo](Image filename)
 
 # Creating a Feature Layer in ArcGIS Online
-This tutorial provides step-by-step instructions for creating a new feature layer in ArcGIS Online.
+This tutorial provides step-by-step instructions for creating a new feature layer in ArcGIS Online using the key waypoints in Laura Secord's journey from Queenston to Thorold.
 
 ----
 
 ## Setup Instructions
 In preparation for this tutorial, you will need an ArcGIS Online Organizational account or your Brock University credentials. NOTE: you cannot create features with a public account using these steps.
 
-Download the Laura Secord Images zip folder and extract all files.
+Download the [Laura Secord Images zip folder](https://github.com/BrockDSL/feature-layers-in-arcgis-online/blob/main/FeatureImages.zip) and extract all files.
 
 ----
 
