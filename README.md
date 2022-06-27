@@ -65,8 +65,46 @@ Download the [Laura Secord Images zip folder](https://github.com/BrockDSL/featur
 
 ![image](https://user-images.githubusercontent.com/45638590/175998936-5941370b-3d86-422f-9fbc-c710b4981967.png)
  
-3. Click **Tutorial Points > Feature Layer**. This will open a new window showing the feature layer item description.
+3. Under **Source Layer** click **Tutorial Points > Feature Layer**. This will open a new window showing the feature layer item description.
 4. Click **Data**. You will see the feature entries including the defined fields (Description, Label). Notice also the field titled **Photos and Files**.
+5. Under the Photos and Files field, click **Add** and upload the related image.
+6. Click **Upload**.
+7. Click **Close**.
+8. Repeat for the remaining images. NOTE: You can upload more than one image per record.
+
+##Editing the Table
+
+1. To edit a field in the table, double-click the entry. 
+
+##Creating Pop-ups
+
+1. Continuing from above, click the **Overview** tab then click **Open in Map Viewer**.
+2. Clicking a point on the map will result in the default pop-up.
+
+![image](https://user-images.githubusercontent.com/45638590/176007064-c137d2b9-048a-4500-92d1-a53ab77210ce.png)
+
+3. Click the configure pop-ups tool from the right ![image](https://user-images.githubusercontent.com/45638590/176007368-23601382-62ad-4a36-aac2-5e9160b12e47.png)
+
+4. The pop-ups panel appears to the right of the map view.
+5. Click **Title** and in the entry window, delete the default and type in the code **{Label}**. See below.
+
+![image](https://user-images.githubusercontent.com/45638590/176007936-88b89824-d37a-4e6a-9ac7-66c44359f11a.png)
+
+6. This action defines the title for the pop-up from the entry in the table with the field name **Label**. Notice the pop-up updates on-the-fly.
+7. Next, click the 3 dots beside **Fields list** and click **Delete**.
+8. Then, click **+ Content** and select **Text**.
+9. Enter the code **{Description}** to insert the **Description** field from the table. Click OK. The result shows the description BELOW the image.
+10. From the configure pop-up panel, drag and drop the description content above the "attachment" content.
+
+![image](https://user-images.githubusercontent.com/45638590/176008768-017eda8a-e4a6-4673-91b1-6b32f688614e.png)
+
+The results should reflect the new order of things.
+
+![image](https://user-images.githubusercontent.com/45638590/176008919-93c6e1cc-ef4d-4405-a777-ac11225f9723.png)
+
+11. To save the configured pop-ups with the layer, click the Tutorial Points layer menu (3 dots beside the layer name) and click **Save**.
+
+
 
  
 
