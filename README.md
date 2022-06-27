@@ -1,6 +1,4 @@
-Add in the tutorial image here 
-
-![Tool Logo](Image filename)
+![image](https://user-images.githubusercontent.com/45638590/176009670-5a28dcc6-1b48-4092-b5b5-567413f1990d.png)
 
 # Creating a Feature Layer in ArcGIS Online
 This tutorial provides step-by-step instructions for creating a new feature layer in ArcGIS Online using the key waypoints in Laura Secord's journey from Queenston to Thorold.
@@ -104,9 +102,16 @@ The results should reflect the new order of things.
 
 11. To save the configured pop-ups with the layer, click the Tutorial Points layer menu (3 dots beside the layer name) and click **Save**.
 
+##Visualization
 
+1. Continuing from above, click the **Styles** button ![image](https://user-images.githubusercontent.com/45638590/176010512-40afcbf1-fe40-4801-b5c5-ac84bdbe2196.png)
+ from the top of the right menu.
+2. From step 2, click **Location (Single Symbol)**
 
- 
+![image](https://user-images.githubusercontent.com/45638590/176010862-872e5b9e-68de-4226-94e8-0f798d3a8fb7.png)
+
+3. Click **Symbol Style** > **Current Symbol**
+4. 
 
 ----
 
