@@ -38,7 +38,7 @@ Download the [Laura Secord Images zip folder](https://github.com/BrockDSL/featur
 16. Click the **Overview** tab.
 17. Click **Open in Map Viewer**.
 
-##Editing##
+## Editing
 
 1. Click ![image](https://user-images.githubusercontent.com/45638590/175988242-36039c00-7f4b-489e-aee0-da602b5f2079.png) and select **Search** to enter a placename (i.e. Queenston). Hit enter or click an option from the list.
 2. Click the X to close the search results.
@@ -56,7 +56,7 @@ Download the [Laura Secord Images zip folder](https://github.com/BrockDSL/featur
 ![image](https://user-images.githubusercontent.com/45638590/175997941-31a7620a-cb6c-43ac-9c62-20eccb0272b3.png)
 
 
-##Adding Images##
+## Adding Images
 
 1. Click the 3 dots beside the layer name and click **Show Properties**. The item's properties panel appears on the right.
 2. Click **Information** from the properties panel.
@@ -70,11 +70,11 @@ Download the [Laura Secord Images zip folder](https://github.com/BrockDSL/featur
 7. Click **Close**.
 8. Repeat for the remaining images. NOTE: You can upload more than one image per record.
 
-##Editing the Table
+## Editing the Table
 
 1. To edit a field in the table, double-click the entry. 
 
-##Creating Pop-ups
+## Creating Pop-ups
 
 1. Continuing from above, click the **Overview** tab then click **Open in Map Viewer**.
 2. Clicking a point on the map will result in the default pop-up.
@@ -102,7 +102,7 @@ The results should reflect the new order of things.
 
 11. To save the configured pop-ups with the layer, click the Tutorial Points layer menu (3 dots beside the layer name) and click **Save**.
 
-##Visualization
+## Visualization
 
 1. Continuing from above, click the **Styles** button ![image](https://user-images.githubusercontent.com/45638590/176010512-40afcbf1-fe40-4801-b5c5-ac84bdbe2196.png)
  from the top of the right menu.
@@ -123,7 +123,5 @@ The results should reflect the new order of things.
 [Introduction to ArcGIS StoryMaps](https://brockdsl.github.io/Introduction-to-ArcGIS-StoryMaps/Tutorial)
 
 ----
-
-**End notes**
 
 **This tutorial is supported by the Brock University Research Lifecycle Department.  If you have any questions or concerns regarding this tutorial, don't hesitate to contact the author, [sjanzen@Brocku.ca](mailto:sjanzen@Brocku.ca)**
