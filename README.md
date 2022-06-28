@@ -8,7 +8,7 @@ This tutorial provides step-by-step instructions for creating a new feature laye
 ## Setup Instructions
 In preparation for this tutorial, you will need an ArcGIS Online Organizational account or your Brock University credentials. NOTE: you cannot create features with a public account using these steps.
 
-Download the [Laura Secord Images zip folder](https://github.com/BrockDSL/feature-layers-in-arcgis-online/blob/main/FeatureImages.zip) and extract all files.
+Download the [Laura Secord Images zip folder](https://github.com/BrockDSL/Feature-Layers-in-ArcGIS-Online/raw/main/FeatureImages.zip) and extract all files.
 
 ----
 
