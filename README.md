@@ -40,7 +40,7 @@ Download the [Laura Secord Images zip folder](https://github.com/BrockDSL/Featur
 
 ## Editing
 
-1. Click ![image](https://user-images.githubusercontent.com/45638590/175988242-36039c00-7f4b-489e-aee0-da602b5f2079.png) and select **Search** to enter a placename (i.e. Queenston). Hit enter or click an option from the list.
+1. Click ![image](https://user-images.githubusercontent.com/45638590/176223341-47b6be82-58e8-48c4-9747-8f3d4d1ca93c.png) and select **Search** to enter a placename (i.e. Queenston). Hit enter or click an option from the list.
 2. Click the **X** to close the search results.
 3. To start an 'edit session', click ![image](https://user-images.githubusercontent.com/45638590/176219330-5fc7407d-9031-4a2d-807f-2ca8088f7369.png)
   from the lower right menu.
