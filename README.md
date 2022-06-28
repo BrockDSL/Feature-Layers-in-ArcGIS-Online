@@ -65,7 +65,7 @@ Download the [Laura Secord Images zip folder](https://github.com/BrockDSL/featur
  
 3. Under **Source Layer** click **Tutorial Points > Feature Layer**. This will open a new window showing the feature layer item description.
 4. Click **Data**. You will see the feature entries including the defined fields (Description, Label). Notice also the field titled **Photos and Files**.
-5. Under the Photos and Files field, click **Add** and upload the related image.
+5. Under the **Photos and Files** field, click **Add** and upload the related image.
 6. Click **Upload**.
 7. Click **Close**.
 8. Repeat for the remaining images. NOTE: You can upload more than one image per record.
@@ -92,7 +92,7 @@ Download the [Laura Secord Images zip folder](https://github.com/BrockDSL/featur
 7. Next, click the 3 dots beside **Fields list** and click **Delete**.
 8. Then, click **+ Content** and select **Text**.
 9. Enter the code **{Description}** to insert the **Description** field from the table. Click OK. The result shows the description BELOW the image.
-10. From the configure pop-up panel, drag and drop the description content above the "attachment" content.
+10. From the configure pop-up panel, drag and drop the description content above the **attachment** content.
 
 ![image](https://user-images.githubusercontent.com/45638590/176008768-017eda8a-e4a6-4673-91b1-6b32f688614e.png)
 
@@ -100,7 +100,7 @@ The results should reflect the new order of things.
 
 ![image](https://user-images.githubusercontent.com/45638590/176008919-93c6e1cc-ef4d-4405-a777-ac11225f9723.png)
 
-11. To save the configured pop-ups with the layer, click the Tutorial Points layer menu (3 dots beside the layer name) and click **Save**.
+11. To save the configured pop-ups with the layer. Click the Tutorial Points layer menu (3 dots beside the layer name) and click **Save**.
 
 ## Visualization
 
@@ -124,4 +124,4 @@ The results should reflect the new order of things.
 
 ----
 
-**This tutorial is supported by the Brock University Research Lifecycle Department.  If you have any questions or concerns regarding this tutorial, don't hesitate to contact the author, [sjanzen@Brocku.ca](mailto:sjanzen@Brocku.ca)**
+**This tutorial is supported by the Brock University Research Lifecycle Department.  If you have any questions or concerns regarding this tutorial, don't hesitate to contact the author, Sharon Janzen at [sjanzen@Brocku.ca](mailto:sjanzen@Brocku.ca)**
