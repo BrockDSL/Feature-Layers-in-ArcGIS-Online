@@ -24,14 +24,14 @@ Download the [Laura Secord Images zip folder](https://github.com/BrockDSL/featur
 8. Enter a layer name and select *point, line or polygon*. This example will create a *point* layer.
 9. Click **Next**.
 
-![image](https://user-images.githubusercontent.com/45638590/175981617-a38acf86-2048-46bb-87fc-458ba6ba1b8b.png)
+  ![image](https://user-images.githubusercontent.com/45638590/175981617-a38acf86-2048-46bb-87fc-458ba6ba1b8b.png)
 
 10. Enter a Title, folder, tags and summary for the new feature layer.
 11. Click **Next**.
 12. The **Item Description** page appears. Add a summary and details as required.
 13. Click **Data**, click **Fields** from the top right, click **+ Add**.
 
-![image](https://user-images.githubusercontent.com/45638590/175981930-c658e791-9297-4b93-8398-d06f947d5219.png)
+  ![image](https://user-images.githubusercontent.com/45638590/175981930-c658e791-9297-4b93-8398-d06f947d5219.png)
 
 14. Enter a **Field Name** (i.e. Label), **Display Name** (alias such as **Label**), **Type** (i.e. string), **Length** (for descriptions, increase the size to 2,000 or more. For labels, reduce the length to 30.)
 15. Click **Add New Field** and repeat for all the fields you wish to enter. For example, add a **Description** field to complete this exercise.
@@ -80,14 +80,14 @@ Download the [Laura Secord Images zip folder](https://github.com/BrockDSL/featur
 1. Continuing from above, click the **Overview** tab then click **Open in Map Viewer**.
 2. Clicking a point on the map will result in the default pop-up.
 
-![image](https://user-images.githubusercontent.com/45638590/176007064-c137d2b9-048a-4500-92d1-a53ab77210ce.png)
+  ![image](https://user-images.githubusercontent.com/45638590/176007064-c137d2b9-048a-4500-92d1-a53ab77210ce.png)
 
 3. Click the configure pop-ups tool from the right ![image](https://user-images.githubusercontent.com/45638590/176007368-23601382-62ad-4a36-aac2-5e9160b12e47.png)
 
 4. The pop-ups panel appears to the right of the map view.
 5. Click **Title** and in the entry window, delete the default and type in the code **{Label}**. See below.
 
-![image](https://user-images.githubusercontent.com/45638590/176007936-88b89824-d37a-4e6a-9ac7-66c44359f11a.png)
+  ![image](https://user-images.githubusercontent.com/45638590/176007936-88b89824-d37a-4e6a-9ac7-66c44359f11a.png)
 
 6. This action defines the title for the pop-up from the entry in the table with the field name **Label**. Notice the pop-up updates on-the-fly.
 7. Next, click the 3 dots beside **Fields list** and click **Delete**.
