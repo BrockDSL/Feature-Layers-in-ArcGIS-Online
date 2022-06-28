@@ -14,7 +14,7 @@ Download the [Laura Secord Images zip folder](https://github.com/BrockDSL/featur
 
 ## Tutorial
 
-1. Go to [arcgis.com](https://www.arcgis.com/) and click Sign in.
+1. Go to [arcgis.com](https://www.arcgis.com/) and click **Sign in**.
 2. Click **"Your ArcGIS Organization's URL"**.
 3. Enter the text 'brock' to complete the URL. Click **Continue**.
 4. Click **Brock University**. You will be taken to the Brock University authentication page where you will enter your Brock credentials and click **Sign in**.
