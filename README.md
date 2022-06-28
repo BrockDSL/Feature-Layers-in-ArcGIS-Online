@@ -42,7 +42,8 @@ Download the [Laura Secord Images zip folder](https://github.com/BrockDSL/featur
 
 1. Click ![image](https://user-images.githubusercontent.com/45638590/175988242-36039c00-7f4b-489e-aee0-da602b5f2079.png) and select **Search** to enter a placename (i.e. Queenston). Hit enter or click an option from the list.
 2. Click the **X** to close the search results.
-3. To start an 'edit session', click ![image](https://user-images.githubusercontent.com/45638590/175983304-2c2f8510-16a9-4f94-a5dc-bd5fe3e85782.png) from the lower right menu.
+3. To start an 'edit session', click ![image](https://user-images.githubusercontent.com/45638590/176219330-5fc7407d-9031-4a2d-807f-2ca8088f7369.png)
+  ![image](https://user-images.githubusercontent.com/45638590/175983304-2c2f8510-16a9-4f94-a5dc-bd5fe3e85782.png) from the lower right menu.
 5. Click the **New feature** button then click the location on the map. **NOTE: You can update the geometry any time during an edit session**. You will be prompted to fill in the various fields of information (i.e. Label "Queenston", Description "Site of the Secord Homestead.").
 6. Click **Create**.
 7. Repeat for additional features. For example, zoom to **St. Davids**, add a feature labeled as such with the description "Laura's first stop was at her relatives' homestead in St. Davids".
